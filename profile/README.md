@@ -52,7 +52,7 @@ Cosy utilizes a microservices approach with a Java monolith for control and a hi
 | **Release**| The official Cost Optimized Server Yard download repo. | [**Cosy**](https://github.com/Magenta-Mause/Cosy)
 | **Deployment** | Kubernetes (K8s) configuration files for modern cloud deployment. | [**Cosy-Deployment**](https://github.com/magenta-mause/cosy-deployment) |
 | **Landing** | Public-facing marketing and information page. | [**Cosy-Landing-Page**](https://github.com/magenta-mause/cosy-landing-page) |
-| **Templates** | COSY Templates — Official and community-maintained JSON templates for Docker Compose and Kubernetes used by COSY. | [**Cosy-templates**](https://github.com/Magenta-Mause/Cosy-Templates) |
+| **Templates** | COSY Templates — Official and community-maintained JSON templates for Docker Compose and Kubernetes used by COSY. | [**Cosy-Templates**](https://github.com/Magenta-Mause/Cosy-Templates) |
 
 ---
 
