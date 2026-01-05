@@ -46,11 +46,13 @@ Cosy utilizes a microservices approach with a Java monolith for control and a hi
 
 | Component | Description | Repository |
 | :--- | :--- | :--- |
-| **Backend** | Java Spring Boot application acting as the central control center and log router. | [**cosy-backend**](https://github.com/magenta-mause/cosy-backend) |
-| **Frontend** | React + TypeScript (Bun) interface rendering the "Village" UI. | [**cosy-frontend**](https://github.com/magenta-mause/cosy-frontend) |
-| **Game API** | **Rust** microservice for fetching game assets (icons/art) from external sources. | [**cosy-gameapi**](https://github.com/magenta-mause/cosy-gameapi) |
-| **Deployment** | Kubernetes (K8s) configuration files for modern cloud deployment. | [**cosy-deployment**](https://github.com/magenta-mause/cosy-deployment) |
-| **Landing** | Public-facing marketing and information page. | [**cosy-landing-page**](https://github.com/magenta-mause/cosy-landing-page) |
+| **Backend** | Java Spring Boot application acting as the central control center and log router. | [**Cosy-Backend**](https://github.com/magenta-mause/cosy-backend) |
+| **Frontend** | React + TypeScript (Bun) interface rendering the "Village" UI. | [**Cosy-Frontend**](https://github.com/magenta-mause/cosy-frontend) |
+| **Game API** | **Rust** microservice for fetching game assets (icons/art) from external sources. | [**Cosy-Gameapi**](https://github.com/magenta-mause/cosy-gameapi) |
+| **Release**| The official Cost Optimized Server Yard download repo. | [**Cosy**](https://github.com/Magenta-Mause/Cosy)
+| **Deployment** | Kubernetes (K8s) configuration files for modern cloud deployment. | [**Cosy-Deployment**](https://github.com/magenta-mause/cosy-deployment) |
+| **Landing** | Public-facing marketing and information page. | [**Cosy-Landing-Page**](https://github.com/magenta-mause/cosy-landing-page) |
+| **Templates** | COSY Templates — Official and community-maintained JSON templates for Docker Compose and Kubernetes used by COSY. | [**cosy-templates**](https://github.com/Magenta-Mause/Cosy-Templates) |
 
 ---
 
